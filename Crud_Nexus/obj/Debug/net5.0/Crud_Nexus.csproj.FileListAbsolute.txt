@@ -38,3 +38,5 @@ C:\Users\User\Desktop\git\crud_aspnet_mvc\Crud_Nexus\obj\Debug\net5.0\ref\Crud_N
 C:\Users\User\Desktop\git\crud_aspnet_mvc\Crud_Nexus\obj\Debug\net5.0\Crud_Nexus.pdb
 C:\Users\User\Desktop\git\crud_aspnet_mvc\Crud_Nexus\obj\Debug\net5.0\Crud_Nexus.genruntimeconfig.cache
 C:\Users\User\Desktop\git\crud_aspnet_mvc\Crud_Nexus\obj\Debug\net5.0\Crud_Nexus.csproj.CopyComplete
+C:\Users\User\Desktop\git\crud_aspnet_mvc\Crud_Nexus\obj\Debug\net5.0\Razor\Views\HelloWorld\index.cshtml.g.cs
+C:\Users\User\Desktop\git\crud_aspnet_mvc\Crud_Nexus\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
