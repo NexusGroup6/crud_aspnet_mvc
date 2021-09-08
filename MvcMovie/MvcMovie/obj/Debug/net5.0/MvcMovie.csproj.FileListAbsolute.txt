@@ -172,3 +172,4 @@ C:\MvcMovie\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Delete.cshtml.g.cs
 C:\MvcMovie\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
 C:\MvcMovie\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
 C:\MvcMovie\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\MvcMovie\MvcMovie\bin\Debug\net5.0\package-lock.json

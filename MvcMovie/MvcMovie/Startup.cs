@@ -49,6 +49,8 @@ namespace MvcMovie
 
             app.UseAuthorization();
 
+            app.UseRequestLocalization("en-UY", "fr-FR");
+
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
