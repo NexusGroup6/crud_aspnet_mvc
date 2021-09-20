@@ -3,7 +3,7 @@
  <h4 align="center"> 
 	🚧  Crud_aspnet_mv 🚀 Completo ✅
 </h4>
-<p align="center">Site Web usado para estudo de um CRUD em aspenet MVC</p>
+<p align="center">Site Web usado para estudo de CRUD em aspenet MVC</p>
 
 Tabela de conteúdos
 =================
